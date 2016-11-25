@@ -20,7 +20,7 @@ published: true
  파일타입    user 권한    group 권한    other 권한
 ```
 파일에는 3개의 권한이 표시되며<br/>
-각각 유저(user)  / 그룹(group) / 모든 사용자 (other)를 나타냅니다.
+각각 유저(user)  / 그룹(group) / 모든 사용자 (other)를 나타냅니다.<br/>
 * user : 파일의 소유자
 * group : 파일이 포함된 그룹
 * other : 그 외 나머지 사용자
@@ -58,7 +58,7 @@ chmod [권한] [파일]
 ```
 chmod 755 test     # test파일의 권한을 rwxr-xr-x 로 설정한다.
 chmod 654 test     # 654 = rw-r-xr--
-chmod 4 test = chmod 004 test
+chmod 4 test       # chmod 004 test
 ```
 
 
