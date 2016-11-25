@@ -21,9 +21,9 @@ published: true
 ```
 파일에는 3개의 권한이 표시되며<br/>
 각각 유저(user)  / 그룹(group) / 모든 사용자 (other)를 나타냅니다.<br/>
- * user : 파일의 소유자
- * group : 파일이 포함된 그룹
- * other : 그 외 나머지 사용자
+ *  user : 파일의 소유자
+ *  group : 파일이 포함된 그룹
+ *  other : 그 외 나머지 사용자
 
 rwx 문자열은 각각, 읽기(Read), 쓰기(Write), 실행(Execute)을 의미하며,<br/>
 권한이 있는 경우 r / w / x 로 표시하고, 권한이 없을 경우엔 - 로 표시합니다.
