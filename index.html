@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="visual"></div>
+
+<section class="content-layout">
+  
+	<div class="list">
+    {% for post in site.posts %}
+      
+      {% include list-module.html %}
+      
+    {% endfor %}
+  </div>
+  
+  {% include aside.html %}
+
+</section>

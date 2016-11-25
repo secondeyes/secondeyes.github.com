@@ -1,0 +1,9 @@
+# Site settings
+title: blind-sight
+email: codebasik@gmail.com
+description: 느리지만 꾸준히 성장하는 개발자를 꿈꿉니다.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://secondeyes.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

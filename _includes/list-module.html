@@ -1,0 +1,12 @@
+<div class="list-module">
+  {% assign author = site.data.authors[post.author] %}
+  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} , {% if author.name %}{{ author.name }}{% endif %}
+    {% if author.gravatar %}<img src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=40" class="gravatar">{% endif %}
+  </span>
+  <h2>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  {% if post.description %}<p class="post-description">{{ post.description }}</p>{% endif %}
+  
+  <a href="{{ post.url | prepend: site.baseurl }}" class="btn">READ MORE</a>
+</div>

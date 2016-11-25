@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<section class="content-layout">
+	<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ site.url | prepend: site.baseurl }}"/>
+
+      <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="{% if page.ogimage %}{{ page.ogimage | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+        <meta itemprop="width" content="800">
+        <meta itemprop="height" content="800">
+      </div>
+
+      <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="우아한형제들">
+        <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+          <meta itemprop="url" content="{{ site.url }}/favicon.png">
+          <meta itemprop="width" content="220">
+          <meta itemprop="height" content="57">
+        </div>
+      </div>
+
+	  <header class="post-header">
+	    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+	    {% assign author = site.data.authors[page.author] %}
+	    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished dateModified">{{ page.date | date: "%b %-d, %Y" }}</time>{% if author.name %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span>{% endif %}{% if author.gravatar %}<img src="http://www.gravatar.com/avatar/{{ author.gravatar }}?s=50" class="gravatar">{% endif %}</p>
+	  </header>
+	
+	  <div class="post-content" itemprop="articleBody">
+	    {{ content }}
+	  </div>
+	  
+    <div class="fb-comments" data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" data-width="100%" data-numposts="10"></div>
+    
+	  <a href="/" class="btn btn-block" id="back">목록으로 돌아가기</a>
+	
+	</article>
+</section>
+
+<script>
+	var goback = document.getElementById("back");
+    goback.addEventListener('click', function(event) {
+        window.history.back();
+        event.stopPropagation();
+    });
+</script>

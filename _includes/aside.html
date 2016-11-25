@@ -1,0 +1,28 @@
+<aside class="page-aside">
+  <section class="category">
+    <strong style="color:#2E64FE;font-size:18px;">categories</strong>
+    <ul>
+      {% for cat in site.categories %}
+	  		{% assign cat_name = cat | first %}
+	  		{% assign cat_size = cat | last | size %}
+	  		{% assign cat_slug = cat_name | slugify  %}
+	  		<li>
+	  			<a class="bold" href="/category/{{cat_slug | prepend: site.baseurl}}">
+	  				{{cat_name}} ({{cat_size}})
+	  		</li>
+	  			</a>
+	  	{% endfor %}
+    </ul>
+  </section>
+  
+  <section class="recent-posts">
+    <strong style="color:#2E64FE;font-size:18px;">Recent Posts</strong>
+    <ul>
+      {% for post in site.posts offset: 0 limit: 3  %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">
+        - {{ post.title }}
+      </a></li>
+    {% endfor %}
+    </ul>
+  </section>
+</aside>
