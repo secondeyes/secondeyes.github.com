@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "리눅스 파헤치기 - #파일/폴더 권한"
-description: "리눅스 완전정복 프로젝트 #1"
+title:  "파일/폴더 권한"
+description: "리눅스와 친해지기 프로젝트 #1"
 author: codebasik
 date:   2016-11-24 09:00:00 +0900
 categories: linux
