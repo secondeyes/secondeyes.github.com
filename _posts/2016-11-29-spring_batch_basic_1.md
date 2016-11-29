@@ -42,7 +42,7 @@ published: true
 ### Job Execution
 
  * JobExecution은 Job을 실행하려는 단일 시도의 기술적 개념을 나타냅니다
- * 작업이 실행될 때 실제 수행된 Execution을 정의합니다.<br/> 2007년 5월5일 첫번째 작업이 실패하여 두번째 작업이 수행한 경우, 각각의 Job Execution은 다른것으로 분류되고 같은 Job Instance를 수행한 것으로
+ * 작업이 실행될 때 실제 수행된 Execution을 정의합니다.<br/> 2007년 5월5일 첫번째 작업이 실패하여 두번째 작업이 수행한 경우, 각각의 Job Execution은 다른것으로 분류되고 같은 Job Instance를 수행한 것으로 볼 수 있습니다.
    
 ### Job Parameter
 
