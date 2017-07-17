@@ -3,7 +3,7 @@ layout: post
 title:  "좋은 동료와 함께하는 기쁨"
 description: "약 1년 동안의 사내 스터디를 마치며.."
 author: yjjung
-date:   2017-07-14 09:10:09 +0900
+date:   2017-07-17 09:10:09 +0900
 categories: experience
 published: true
 ---
