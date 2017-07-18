@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf78301-01af-4ca1-a911-d64b037742c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2017-03-04/junior_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2017-03-04/junior_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2017-03-04/junior_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2017-03-04/junior_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2017-03-04/junior_05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-04-junior.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category/develop/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-03-04-junior.md" afterPath="$PROJECT_DIR$/_posts/2017-03-04-junior.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md" afterPath="$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,6 +17,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
@@ -34,35 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2016-11-29-spring_batch_basic_1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md">
+      <file leaf-file-name="2017-07-14-finish_toby_study.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1168">
-                <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/category/develop/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-03-04-junior.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-junior.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="232">
+                <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -149,6 +123,9 @@
         <option value="$PROJECT_DIR$/_posts/2016-11-24-linux_study_1.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md" />
         <option value="$PROJECT_DIR$/category/develop/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-04-junior.md" />
+        <option value="$PROJECT_DIR$/category/experience/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md" />
       </list>
     </option>
   </component>
@@ -158,11 +135,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
+    <option name="x" value="40" />
     <option name="y" value="23" />
-    <option name="width" value="1242" />
+    <option name="width" value="1240" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectView">
@@ -180,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -223,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-04" />
+              <option name="myItemId" value="2017-07-14" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,25 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="linux" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secondeyes.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secondeyes.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="develop" />
+              <option name="myItemId" value="experience" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,6 +253,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,15 +269,28 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="USP_Baropay_Purch_Result_M01&#9;FILE&#9;dbSrc:///app/7f91605b-9cef-4fc3-a394-57e50afead5b/database/SbSvc/schema/dbo/routine/USP_Baropay_Purch_Result_M01.sql" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/category/develop" />
-      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/category/experience" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/category/develop" />
       <recent name="$PROJECT_DIR$/img/2016-11-29" />
-      <recent name="$PROJECT_DIR$/category/spring" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -409,6 +384,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bbf78301-01af-4ca1-a911-d64b037742c8" name="Default" comment="" />
@@ -424,11 +402,29 @@
       <workItem from="1480382227123" duration="6531000" />
       <workItem from="1480394883238" duration="8388000" />
       <workItem from="1488772940074" duration="174000" />
+      <workItem from="1497570194350" duration="1035000" />
+      <workItem from="1500188317700" duration="10285000" />
+      <workItem from="1500351795840" duration="1468000" />
     </task>
+    <task id="LOCAL-00001" summary="왜 안나오지.">
+      <created>1500262750781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500262750781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="experience 카테고리추가">
+      <created>1500262934250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500262934250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20247000" />
+    <option name="totallyTimeSpent" value="33035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +436,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="23" width="1242" height="777" extended-state="6" />
+    <frame x="40" y="23" width="1240" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -455,17 +451,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23003195" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4522003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18833333" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18781303" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -500,17 +496,79 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="왜 안나오지." />
+    <MESSAGE value="experience 카테고리추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="experience 카테고리추가" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-junior.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/experience/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1168">
+            <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-junior.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/develop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -531,7 +589,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -612,23 +669,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-junior.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-11-24-linux_grep_basic_grammer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="32">
             <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -639,18 +684,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="256">
             <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1168">
-            <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -660,7 +693,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-29-spring_batch_basic_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///app/7f91605b-9cef-4fc3-a394-57e50afead5b/database/SbSvc/schema/dbo/routine/USP_Baropay_Purch_Result_M01.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5492">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-junior.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/experience/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-14-finish_toby_study.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
